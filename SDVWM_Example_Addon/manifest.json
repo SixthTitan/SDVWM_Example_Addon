@@ -1,0 +1,10 @@
+﻿{
+   "Name": "SDVWM_Example_Addon",
+   "Author": "SixthTitan",
+   "Version": "1.0",
+   "Description": "Example Add-on Project for SDVWM",
+   "UniqueID": "SixthTitan.SDVWM_Example_Addon",
+   "EntryDll": "SDVWM_Example_Addon.dll",
+   "MinimumApiVersion": "2.9",
+   "UpdateKeys": [ "" ]
+}
